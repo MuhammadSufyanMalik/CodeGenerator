@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj": {}
+  },
+  "projects": {
+    "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj",
+        "projectName": "CodeGenerator",
+        "projectPath": "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\muhammad.sufyan\\.nuget\\packages\\",
+        "outputPath": "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\muhammad.sufyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.ardgrup.com.tr/ARDGrup/_packaging/Ard.Core.Packages/nuget/v3/index.json": {},
+          "https://devops.ardgrup.com.tr/ARDGrup/_packaging/Ard.Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.6.2164, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
