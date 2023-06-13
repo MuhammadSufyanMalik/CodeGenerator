@@ -13571,11 +13571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\muhammad.sufyan\\Desktop\\Desktop\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj",
       "projectName": "CodeGenerator",
-      "projectPath": "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj",
+      "projectPath": "C:\\Users\\muhammad.sufyan\\Desktop\\Desktop\\CodeGenerator\\CodeGenerator\\CodeGenerator.csproj",
       "packagesPath": "C:\\Users\\muhammad.sufyan\\.nuget\\packages\\",
-      "outputPath": "C:\\MuhammadSufyanMalik\\CodeGenerator\\CodeGenerator\\obj\\",
+      "outputPath": "C:\\Users\\muhammad.sufyan\\Desktop\\Desktop\\CodeGenerator\\CodeGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
